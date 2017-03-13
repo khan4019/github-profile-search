@@ -26,10 +26,6 @@ The goal of this challenge is to see whether you can do some basic front end dev
 6.  Display first 10 users in the search result
 
 
-## Running unit tests
-
-If you want to run unit test, executing `ng test`
-
 ## Further help
+1.  Feel free to ask google or the person who sent you this link.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
