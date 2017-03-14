@@ -13,7 +13,7 @@ The goal of this challenge is to see whether you can do some basic front end dev
 1.  Feel free to use internet
 3.  We recommend you to spend maximum two hours and submit as much as you can
 2.  The project has angular material design incorporated. Feel free to use it 
-1.  Before start coding 
+4.  Before start coding 
     *   Create a branch by using your full name
     *   When you are done, send a pull request
 
@@ -21,11 +21,13 @@ The goal of this challenge is to see whether you can do some basic front end dev
 
 # Fetch data and display user profile
 1.	Github user api: `https://api.github.com/search/users?q=eric` takes a search string to search users in github. The search string could be passed as parameter q
-4.	Create a textbox in the main component under src\app\main to take user by using the above mentioned api
-5.	From the search result display the total number of github user in `total_count`
-6.  Display first 10 users in the search result
+2.	Create a textbox in the main component under src\app\main to take user by using the above mentioned api
+3.	From the search result display the total number of github user in `total_count`
+4.  Display first 10 users in the search result
 
 
 ## Further help
 1.  Feel free to ask google or the person sent you this challenge
 
+## Updates 
+Testing General note updates
