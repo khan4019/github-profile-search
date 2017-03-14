@@ -30,4 +30,4 @@ The goal of this challenge is to see whether you can do some basic front end dev
 1.  Feel free to ask google or the person sent you this challenge
 
 ## Updates 
-Testing General note updates, and request to pull
+Updates directly to repo and attempting to send out.
